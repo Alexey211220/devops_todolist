@@ -8,3 +8,5 @@ runnung docker container from the image
 ```bash
 docker run -e ENV=TRUE -p 8080:8080 todoapp:1.0.0
 ```
+
+Open http://localhost:8080/ in your browser
